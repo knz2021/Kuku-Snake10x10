@@ -1,1 +1,1 @@
-# Kuku-Snake10x10
+# KukuSune10x10
